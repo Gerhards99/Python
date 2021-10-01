@@ -6,6 +6,14 @@ git branch -M main
 git remote add origin https://github.com/Gerhards99/Python.git
 git push -u origin main
 
+energy = (3e-4 / 1.602e-19)
+print('The amount of voltage needed to accelerate a electron to an energy of 3e-4 J is ' +str(energy) + 'V.')
+
+print('The only usable force out of the existing four (strong, weak, gravitation and electromagnetic is the electromagnetic one as the first two are really short range')
+print('and work on the atomic level. TThe gravitational force can not be used because it is really weak and can not reach high acceleration levels. So the only one left is')
+print('the electromagnetic force. This one can be used and is used because it is possible to accelerate charged particles and only charged particles. But the charged')
+print(' particles can really be accelerated a lot and reach high speeds with enough energy put into them.')
+
 print(2 + 2)
 import numpy as np
 
